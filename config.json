@@ -1,0 +1,7 @@
+{
+  "countdownMinutes": 10,
+  "delayBetweenRequests": 2000,
+  "delayAfterCollection": 1000,
+
+  "createStar" : false
+} 
